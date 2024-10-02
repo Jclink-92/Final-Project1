@@ -4,7 +4,6 @@ body {
 
 #container {
     background-color: #7a7e91;
-    background-color: ;
     width: 1200px;
     margin: 20px auto;
     border: 2-x solid black;
@@ -26,11 +25,11 @@ nav {
 nav a {
     font-size: 24px;
     color: black;
-    margin: 0 20 px;
+    margin: 0 20px;
     font-weight: bold;
 }
 
-nav a: hover {
+nav a hover {
     text-decoration: none;
 }
 
