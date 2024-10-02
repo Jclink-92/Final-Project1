@@ -1,4 +1,4 @@
 # Final-Project1
 
 <ul>
-    <li><a href="Final/index.html" target=_blank>CSS</a></li>
+    <li><a href="FinalProj/index.html" target=_blank>Final Project</a></li>
