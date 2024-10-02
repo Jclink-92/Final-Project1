@@ -1,19 +1,47 @@
 body {
     background-color: #7a7e91;
+    font-family: "Dancing Script", system-ui
+    
 }
 
 #container {
     background-color: #7a7e91;
-    width: 1200px;
+    width: 65%;
     margin: 20px auto;
     border: 2-x solid black;
     padding: 20px;
 }
 
+#banner {
+    width: 100%;
+}
+
+#col1 {
+    width: 50%;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+#col2 {
+    width: 50%;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.heading_style {
+    text-shadow: 2px 2px 2px #000;
+}
+
+.largepic {
+    width: 50%;
+}
+
 img {
     display: block;
     margin: 0 auto;
-    width: 650px;
+    width: 100%;
 }
 
 nav {
@@ -49,6 +77,11 @@ nav li a {
 nav a:hover {
     background-color: white;
     color: black;
+    font-family: "Dancing Script", system-ui;
+}
+
+#col2 {
+    display: flex;
 }
 
 h1,
